@@ -44,7 +44,7 @@
 >
 > 
 >
-> 8 - ![img](https://i.ytimg.com/vi/ACtmaODX4l8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCpIGDHvKFeo06DjgRDDQz6P8o-dg)
+> 8 -✔   ![img](https://i.ytimg.com/vi/ACtmaODX4l8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCpIGDHvKFeo06DjgRDDQz6P8o-dg)
 >
 > ### [Preparando o ambiente para o WordPress - Curso WordPress #04](https://www.youtube.com/watch?v=ACtmaODX4l8&list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2&index=8)
 >
@@ -54,25 +54,28 @@
 >
 > 
 >
-> 9
->
-> [![img](https://i.ytimg.com/vi/zTRncHD5Me0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCFPHRSHo8gAZklQm5dOzFz7bf03A)29:02TOCANDO AGORA](https://www.youtube.com/watch?v=zTRncHD5Me0&list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2&index=9)
+> 9 - ✔   ![img](https://i.ytimg.com/vi/zTRncHD5Me0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCFPHRSHo8gAZklQm5dOzFz7bf03A)
 >
 > ### [Instalando o WordPress no seu PC - Curso WordPress #05](https://www.youtube.com/watch?v=zTRncHD5Me0&list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2&index=9)
 >
-> [Curso em Vídeo](https://www.youtube.com/c/CursoemVídeo)
+> > - Entar no servidor local acessar SEUS ALIASES
+> >
+> > Entrar : SERVIDOR
+> > Sistema : MySQL
+> > Servidor : localhost
+> > Usuário : root
+> > Senha : padrão 
+> > Base de dados : branco
+> >
+> > - Configurar página com mesmo nome da pasta 
 >
 > 
 >
-> 
->
-> 10
->
-> [![img](https://i.ytimg.com/vi/bbZNyuFzqlY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLABa7G3hefM8NnVOLdWmq_fm-YaXA)34:13TOCANDO AGORA](https://www.youtube.com/watch?v=bbZNyuFzqlY&list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2&index=10)
+> 10 - ![img](https://i.ytimg.com/vi/bbZNyuFzqlY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLABa7G3hefM8NnVOLdWmq_fm-YaXA)
 >
 > ### [Instalando o WordPress manualmente - Curso WordPress #06](https://www.youtube.com/watch?v=bbZNyuFzqlY&list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2&index=10)
 >
-> [Curso em Vídeo](https://www.youtube.com/c/CursoemVídeo)
+> 
 >
 > 
 >
